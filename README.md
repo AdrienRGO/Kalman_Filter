@@ -45,7 +45,7 @@ As the gain decreases and gets closer to 0, the estimated value gets closer and 
 The difference between the case in 1D and in higher dimensions is that for the higher dimensions we will add a **perturbation matrix** to allow the system to **continue to evolve and converge**.  
 We also use the covariance to represent the error in the estimation or in the process.
 
-To have **more details on the relations and mathematical principles**, I invite you to download and watch the [presentation slideshow](https://github.com/LouisTier/KalmanFilter/blob/main/Diaporama_Presentation.pptx).  
+To have **more details on the relations and mathematical principles**, I invite you to download and watch the [presentation slideshow](https://github.com/AdrienRGO/Kalman_Filter/blob/main/Diaporama_Presentation.pptx).  
 In our examples, we use the **Euclidean distance** to evaluate the distance separating objects from an upcoming state. Also, to facilitate the use of the Kalman filter, it is interesting to proceed to a **pre-processing**. Hence the calculation of the mask and the median for our bees.
 
 ## **3. The videos**
